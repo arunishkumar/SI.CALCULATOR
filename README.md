@@ -1,2 +1,2 @@
 # SI.CALCULATOR
-can calculate simple interest
+An interactive Flutter app to calculate simple interest
